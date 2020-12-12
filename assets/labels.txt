@@ -1,0 +1,14 @@
+0 Common Krait
+1 King Cobra
+2 Monocled Cobra
+3 Russell's Viper
+4 Saw-scaled Viper
+5 Spectacled Cobra
+6 Banded Racer
+7 Checkered Keelback
+8 Common Rat Snake
+9 Common Sand Boa
+10 Common Trinket
+11 Green Tree Vine
+12 Class 13
+13 No snake found
