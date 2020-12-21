@@ -7,4 +7,4 @@
 * Then build an release version of debug version of App
 
 ## Screenshots
-<div style="text-align:center"><img src="https://drive.google.com/uc?export=view&id=16o9OgUFcGPjR4vtKf9lb_GRO26MmAw4h"></div>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=16o9OgUFcGPjR4vtKf9lb_GRO26MmAw4h"></p>
