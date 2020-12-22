@@ -7,6 +7,7 @@
 * Then build an release version or debug version of App.
 
 ## Note:
+* Dataset used for training : https://github.com/arjun921/Indian-Snakes-Dataset
 * The TFLite model in the app is not much accurate. You can increase the accuracy by training with more images for each labels.
 
 ## Screenshots
