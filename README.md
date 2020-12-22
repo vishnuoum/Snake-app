@@ -1,10 +1,13 @@
 # Snake-app
 * An application developed with flutter, that detects the snake from a image.
-* The consists of a tensorflow list model created with help of <a href="https://teachablemachine.withgoogle.com/">Google's Teachable Machine</a>
+* The consists of a tensorflow list model created with help of <a href="https://teachablemachine.withgoogle.com/">Google's Teachable Machine</a>.
 
 ## Usage Guide
-* Run ```flutter pub get```
-* Then build an release version of debug version of App
+* Run ```flutter pub get```.
+* Then build an release version or debug version of App.
+
+## Note:
+* The TFLite model in the app is not much accurate. You can increase the accuracy by training with more images for each labels.
 
 ## Screenshots
 **Logo**
