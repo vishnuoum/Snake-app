@@ -8,6 +8,7 @@
 
 ## Note:
 * Dataset used for training : https://github.com/arjun921/Indian-Snakes-Dataset
+* You can add any image (that do not contain any snake) for label **No Snake** while training.
 * The TFLite model in the app is not much accurate. You can increase the accuracy by training with more images for each labels.
 
 ## Screenshots
