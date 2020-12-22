@@ -7,9 +7,11 @@
 * Then build an release version of debug version of App
 
 ## Screenshots
-*Logo*
+**Logo**
 <p align="center"><img src="https://user-images.githubusercontent.com/57527558/102843684-b4a81c80-442f-11eb-9870-2b3801f8eadf.png"></p>
-*App screenshots*
+
+**App screenshots**
+
 <p align="center"><img height="500" src="https://user-images.githubusercontent.com/57527558/102843495-52e7b280-442f-11eb-877c-0b5f5a98b074.png">
 <img height="500" src="https://user-images.githubusercontent.com/57527558/102843497-54b17600-442f-11eb-93d8-d8157e123749.png">
 <img height="500" src="https://user-images.githubusercontent.com/57527558/102843504-5713d000-442f-11eb-8c23-4f353e9e54d1.png">
